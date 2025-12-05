@@ -34,8 +34,13 @@ Console I/O
 
 **Project Structure**
 src/
+
  └── billing/
+ 
        ├── MenuItem.java
+       
        ├── OrderItem.java
+       
        ├── RestaurantBillingSystem.java
+       
        └── Main.java
